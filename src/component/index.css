@@ -1,0 +1,73 @@
+#title{
+    background-color: aqua;
+}
+.Components{
+    background-color:red;
+    border-radius: 50px;
+    position: relative;
+    padding-bottom:100px ;
+    
+}
+#userBd{
+    
+    color: floralwhite;
+    font-size:20px;
+    font-weight: bolder;
+    position: relative;
+
+}
+#userBda{
+    border-color: #0c0c0b;
+    color:blue;
+    padding: 7px;
+    border-radius: 20px;
+    position:relative;
+    top:10px;
+
+}
+#currentDate{
+    color:aqua;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top:10px;
+}
+#currentDatea{
+    padding: 7px;
+border-radius: 20px;
+    position: relative;
+    top:10px;
+    bottom: 20px;
+}
+#button{
+    position: relative;
+
+    bottom: 45px;
+    left:120px;
+    padding:5px;
+    padding-left:10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: #3a1fb1;
+    color:beige;
+}
+.age-box {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    top:60px;
+  }
+  
+  .age-box span {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .age-box p {
+    font-size: 14px;
+  }
+  
